@@ -1,0 +1,156 @@
+Se considera que la cámara se sitúa justo detrás del helicóptero a la hora de
+citar la orientación de los controles del mismo.
+
+Controles de cámara
+-------------------
+Tecla <Re. Pág>: Acerca la cámara
+Tecla <Av. Pág>: Aleja la cámara
+Cursores: Mueven la cámara hacia la izquierda, derecha, arriba y abajo.
+
+Tecla ESC: Salir
+
+
+
+
+Controles de rotación de hélices
+--------------------------------
+
+Tecla P: Gira hélices hacia la izquierda (atrás la trasera).
+Tecla O: Gira hélices hacia la derecha (delante la trasera).
+
+El helicóptero no girará hasta que las hélices giren a determinada velocidad
+en cualquiera de los sentidos.
+Si giran por debajo de la velocidad mínima necesaria el helicóptero descenderá
+en función de lo inferior que sea dicha velocidad
+
+
+
+
+Controles de movimiento
+-----------------------
+
+Tecla T: Inclina el helicóptero hacia la izquierda.
+Tecla U: Inclina el helicóptero hacia la derecha.
+Tecla W: Inclina el helicóptero hacia delante.
+Tecla S: Inlcina el helicóptero hacia atrás.
+
+
+
+
+Controles de giro
+-----------------
+
+Tecla G: Gira el helicóptero hacia la izquierda.
+Tecla J: Gira el helicóptero hacia la derecha.
+
+
+
+
+Controles de movimiento lateral automático (movimiento+giro+camara)
+-------------------------------------------------------------------
+
+Tecla A: Inclina el helicóptero hacia la izquierda, a la vez que lo gira
+			y gira la cámara en sentido contrario.
+Tecla D: Inclina el helicóptero hacia la derecha, a la vez que lo gira
+			y gira la cámara en sentido contrario.
+
+
+
+
+Controles de giro automático (+camara)
+--------------------------------------
+Tecla Q: Gira el helicóptero hacia la izquierda, a la vez que gira la cámara
+			hacia el sentido contrario.
+Tecla R: Gira el helicóptero hacia la derecha, a la vez que gira la cámara
+			hacia el sentido contrario.
+
+
+
+
+Estabilización
+--------------
+
+Tecla E: Estabiliza el helicóptero estableciendo la velocidad de rotación de
+			sus hélices a una intermedia entre el giro mínimo para mantenerse
+			en vuelo y el giro mínimo para elevarse.
+
+
+
+
+Controles de misiles
+--------------------
+
+Tecla 0: Lanza el misil izquierdo.
+Tecla .: Lanza el misil derecho.
+
+
+
+
+Control de ametralladora
+------------------------
+
+Tecla 1: Desplaza la ametralladora hacia la izquierda.
+Tecla 3: Desplaza la ametralladora hacia la derecha
+Tecla 2: Gira la ametralladora hacia abajo (No se podrá a menos que se haya
+			alcanzado la altura mínima necesaria)
+Tecla 4: Gira la ametralladora hacia la izquierda
+Tecla 6: Gira la ametralladora hacia la derecha
+Tecla 8: Gira la ametralladora hacia arriba
+
+Tecla 7: Rota la ametralladora hacia la izquierda
+Tecla 9: Rota la ametralladora hacia la derecha
+
+Tecla 5: Dispara la ametralladora (Sin importar si está girando o no. Cuanto
+			más rápido gire mejor resultado se obtendrá)
+
+
+
+
+
+-----------------------------
+| Recomendaciones de manejo |
+-----------------------------
+
+1. Usar las siguientes teclas para:
+	-----------------------------------------------------
+	| A: Desplazar hacia la derecha						|
+	| D: Desplazar hacia la izquierda					|
+	| W: Desplazar hacia delante						|
+	| S: Desplazar hacia atrás							|
+	|													|
+	| E: Estabilizar helicóptero						|
+	| P: Acelerar helicóptero							|
+	| O: Desacelerar helicóptero						|
+	|													|
+	| 0: Disparar misil izquierdo						|
+	| .: Disparar misil derecho							|
+	|													|
+	| 1,3:     Desplazar ametralladora horizontalmente	|
+	| 2,4,6,8: Mover Ametralladora						|
+	| 7,9:     Rotar ametralladora						|
+	| 5:       Disparar ametralladora					|
+	-----------------------------------------------------
+	
+2. Se recomienda no usar los controles de cámara excepto para alejarla y acercarla.
+3. Los controles "automáticos" giran la cámara manteniéndola siempre en el último punto
+en el que se dejó. (Es recomendable dejarla detrás del helicóptero)
+4. Una vez alcanzada la altura deseada es recomendable usar la "Tecla E" para estabilizarse
+
+-----------------------------
+| Funciones automáticas     |
+-----------------------------
+
+1. Las teclas marcadas como automáticas disponen de funcionalidad extra para una mayor
+usabilidad.
+2. Si las hélices no rotan a la velocidad mínima para matenerse en el aire el helicóptero
+descenderá proporcionalmente a la rotación de las hélices
+3. El helicóptero no podrá realizar ninguna inclinación y por lo tanto no podrá desplazarse
+a menos que haya alcanzado la altura mínima necesaria.
+4. El movimiento vertical de la ametralladora es anulado si no se está a la altura mínima
+(volviendo la ametralladora su posición de resposo en caso de no estarlo (Su velocidad de
+reposición es proporcional a lavelocidad de descenso del helicóptero))
+5. Los proyectiles de la ametralladora se abrirán más dependiendo de la velocidad de rotación
+de ésta.
+6. La tapa del contenedor de cada misil se cierra automáticamente cuando el misil correspondiente
+es expulsado.
+7. Las aspas de la cola del misil son expandidas una vez el misil es expulsado.
